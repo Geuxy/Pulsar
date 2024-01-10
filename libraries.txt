@@ -30,3 +30,4 @@ org.apache.httpcomponents:httpcore:4.3.2|https://libraries.minecraft.net/org/apa
 org.apache.logging.log4j:log4j-api:2.0-beta9|https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar|108161
 org.apache.logging.log4j:log4j-core:2.0-beta9|https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar|681134
 org.lwjgl.lwjgl:lwjgl:2.9.1|https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar|1014790
+me.geuxy.pulsar:Pulsar:0.0.3|https://github.com/Geuxy/Pulsar/releases/download/0.0.3/Pulsar.jar|10305571
