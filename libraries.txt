@@ -1,0 +1,5 @@
+VIAVERSION|https://repo.viaversion.com/everything/com/viaversion/viaversion/4.9.0-23w45a-SNAPSHOT/viaversion-4.9.0-23w45a-20231109.074612-2.jar
+VIAREWIND|https://repo.viaversion.com/everything/com/viaversion/viarewind-common/3.0.4-SNAPSHOT/viarewind-common-3.0.4-20231120.184750-12.jar
+VIABACKWARDS|https://repo.viaversion.com/everything/com/viaversion/viabackwards/4.9.0-23w45a-SNAPSHOT/viabackwards-4.9.0-23w45a-20231119.152013-3.jar
+SNAKEYAML|https://repo1.maven.org/maven2/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar
+SLF4J|https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar
