@@ -3,3 +3,4 @@ ViaRewind|https://repo.viaversion.com/everything/com/viaversion/viarewind-common
 ViaBackwards|https://repo.viaversion.com/everything/com/viaversion/viabackwards/4.9.0-23w45a-SNAPSHOT/viabackwards-4.9.0-23w45a-20231119.152013-3.jar|1029825
 SnakeYaml|https://repo1.maven.org/maven2/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar|334803
 Slf4j|https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar|41513
+OpenAuth|https://github.com/Litarvan/OpenAuth/releases/download/v1.1.6/openauth-1.1.6.jar|49460
